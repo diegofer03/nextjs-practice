@@ -6,14 +6,14 @@ function Navbar() {
     <nav>
         <ul>
             <li>
-                <link rel="stylesheet" href="/">
-                    <a>Home</a>
-                </link>
+                <Link rel="stylesheet" href="/">
+                   Home
+                </Link>
             </li>
             <li>
-                <link rel= "stylesheet" href="/about">
-                    <a>aBOUT</a>
-                </link>
+                <Link rel= "stylesheet" href="/about">
+                   About
+                </Link>
             </li>
         </ul>
     </nav>

@@ -23,3 +23,5 @@ const allAvos = async (req: IncomingMessage, res: ServerResponse) => {
         )
     }
 }
+
+export default allAvos

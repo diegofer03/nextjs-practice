@@ -22,3 +22,5 @@ const AvoDetail = async (req: NextApiRequest, res: NextApiResponse) => {
         )
     }
 }
+
+export default AvoDetail
